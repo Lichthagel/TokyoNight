@@ -1,0 +1,26 @@
+{
+  "name": "tokyonight",
+  "version": "1.0.0",
+  "description": "Theme that celebrates the lights of Downtown Tokyo at night.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lichthagel/TokyoNight.git"
+  },
+  "keywords": [
+    "clean",
+    "color-theme",
+    "contrast",
+    "dark",
+    "light",
+    "theme",
+    "tokyo"
+  ],
+  "author": "Lichthagel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lichthagel/TokyoNight/issues"
+  },
+  "homepage": "https://github.com/Lichthagel/TokyoNight#readme"
+}
